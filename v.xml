@@ -1,7 +1,11 @@
 <?xml version="1.0"?>  
 <!DOCTYPE employee SYSTEM "employee.dtd">  
-<employee>  
+<employee id=1>  
   <firstname>vimal</firstname>  
   <lastname>jaiswal</lastname>  
+  <email>vimal@javatpoint.com</email>  
+</employee>
+<employee id=2>  
+  <firstname>vimal</firstname>      
   <email>vimal@javatpoint.com</email>  
 </employee>  
